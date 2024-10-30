@@ -1,0 +1,22 @@
+html{
+    background: white;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+    border: solid 5px darkgray;
+    border-radius: 15px;
+    margin: 5rem;
+    display: flex;
+    padding: 20px;
+    text-align: left;
+}
+#meuGrafico{
+    max-width: 600px;
+    max-height: 600px;
+}
+h1{
+    color: white;
+    padding-right: 3rem;
+}
